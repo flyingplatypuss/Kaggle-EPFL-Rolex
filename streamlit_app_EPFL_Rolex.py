@@ -1,13 +1,26 @@
 import streamlit as st
 from transformers import CamembertTokenizer, CamembertForSequenceClassification
 import torch
+import requests
+from io import BytesIO
 from nltk.corpus import wordnet
 import nltk
+
 nltk.download('wordnet')
 
+# URL du modèle
+MODEL_URL = "https://github.com/flyingplatypuss/Kaggle-EPFL-Rolex/raw/main/camembert_model_full.pth"
+
 # Charger le modèle et le tokenizer
-model = CamembertForSequenceClassification.from_pretrained('/path/to/camembert_model_full.pth')
-tokenizer = CamembertTokenizer.from_pretrained('camembert-base')
+@st.cache(allow_output_mutation=True)
+def load_model():
+    response = requests.get(MODEL_URL)
+    model_file = BytesIO(response.content)
+    model = CamembertForSequenceClassification.from_pretrained(model_file)
+    tokenizer = CamembertTokenizer.from_pretrained('camembert-base')
+    return model, tokenizer
+
+model, tokenizer = load_model()
 
 def predict_difficulty(text):
     inputs = tokenizer(text, return_tensors="pt")
@@ -38,3 +51,4 @@ if user_input:
     st.write("Synonymes :", synonyms)
 
     new_sentence = st.text_input("Entrez une nouvelle phrase pour augmenter le niveau de difficulté:")
+
