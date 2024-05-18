@@ -14,10 +14,4 @@ how do the model behave?
 ### Link to the Video
 explaining the problem, your solution, and your results, and make it exciting
 
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
+$\color{#D29922}\textsf{\Large\&#x26A0;\kern{0.2cm}\normalsize Warning}$
