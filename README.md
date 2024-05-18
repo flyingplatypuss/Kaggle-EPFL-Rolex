@@ -12,3 +12,4 @@ where do the errors come from?
 #### Further Analysis
 how do the model behave?
 ### Link to the Video
+explaining the problem, your solution, and your results, and make it exciting
