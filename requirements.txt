@@ -1,5 +1,5 @@
 streamlit
-transformers 
-nltk
-pandas
 torch
+transformers
+nltk
+requests
