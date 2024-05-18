@@ -13,3 +13,11 @@ where do the errors come from?
 how do the model behave?
 ### Link to the Video
 explaining the problem, your solution, and your results, and make it exciting
+
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
