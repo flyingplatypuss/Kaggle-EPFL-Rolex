@@ -3,10 +3,27 @@ Hail and welcome, we are team Rolex (Johann Gremaud and Anna Perrottet).
 
 We have been working on building a classification model that can identify the difficulty(A1-C2) of any french text. 
 
-
 ### Models Scores
-### Bert Model 
+We have used 5 different models: 
+- Logistic Regression, 
+- K Nearest Neighbours
+- Decision Tree
+- Random Forest
+- Large Language Model (LLM) with camemBERT
+
+Task J: get the scores for bert model 
+
+Task A: extract complete table of scores for the 5 methods 
+
+Our most important metric is accuracy. KNN, Random Forest and Decision Tree have around 40% of accuracy. Logistic regression performs better with 47%. 
+this can be explained by several factors: 
+- the size of the dataset
+- the complexity of the classifier
+- 
+### LLM with camemBERT 
+
 #### Confusion Matrix
+Task J: extract the confusion Matrix 
 #### Limitations and flaws
 where do the errors come from?
 #### Further Analysis
