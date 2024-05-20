@@ -19,11 +19,11 @@ Our most important metric is accuracy. KNN, Random Forest and Decision Tree have
 this can be explained by several factors: 
 - the size of the dataset
 - the complexity of the classifier
-  $\\text{color{yellow}{Task A: find couple more reasons}}$
+  $\text{\color{yellow}{Task A: find couple more reasons}}$
 ### LLM with camemBERT 
 
 #### Confusion Matrix
-$\\text{color{green}{Task J: extract the confusion Matrix}}$
+$\text{\color{green}{Task J: extract the confusion Matrix}}$
 #### Limitations and flaws
 where do the errors come from?
 $\text{\color{green}{Task J: make a quick assessment of the model?}}$
