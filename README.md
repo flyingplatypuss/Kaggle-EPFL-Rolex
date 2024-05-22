@@ -12,7 +12,7 @@ We have used 5 different models:
 - Random Forest
 - Large Language Model (LLM) with camemBERT
 
-<img src = "https://github.com/flyingplatypuss/Kaggle-EPFL-Rolex/assets/146196573/deb9b7e9-d803-427d-9a16-9255ad19ccf2" width = "500" height="auto"/>
+<img src = "https://github.com/flyingplatypuss/Kaggle-EPFL-Rolex/assets/146196573/ef66f7f3-9ab0-4df9-babe-fbc918cd69a2" width = "500" height="auto"/>
 
 Our most important metric is accuracy. KNN, Random Forest and Decision Tree have around 40% of accuracy. Logistic regression performs better with 47%. 
 this can be explained by several factors: 
