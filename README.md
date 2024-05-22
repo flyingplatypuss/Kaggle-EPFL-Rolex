@@ -21,13 +21,13 @@ this can be explained by several factors:
   
   $\text{\color{yellow}{Task A: find couple more reasons}}$
   
-$\text{\LARGE{\color{blue}{LLM with camemBERT}}}$
+$\text{\LARGE{\color{#00008B}{LLM with camemBERT}}}$
 
-#### Confusion Matrix 
+$\text{\Large{\color{#00008B}{Confusion Matrix}}}$
 
 <img src="https://github.com/flyingplatypuss/Kaggle-EPFL-Rolex/assets/146196573/0261567a-3c97-43e5-b169-d3e865d11d8c" alt="WhatsApp Image 2024-05-21 à 21 41 23_3f497c78" width="500" height="auto"/>
 
-#### Limitations and flaws
+$\text{\Large{\color{#00008B}{Limitations and flaws}}}$
 The errors from the model come from:
 - the limited size of the training dataset (n = 1200?)
 - camemBERT is simpler than BERT but also less performant
