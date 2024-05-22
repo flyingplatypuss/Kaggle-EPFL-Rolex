@@ -20,7 +20,8 @@ this can be explained by several factors:
 - the complexity of the classifier e.g. camembert is able to "understand" the meaning of the sentence
   
   $\text{\color{yellow}{Task A: find couple more reasons}}$
-### LLM with camemBERT 
+  
+$\text{\LARGE{\color{blue}{LLM with camemBERT}}}$
 
 #### Confusion Matrix 
 
