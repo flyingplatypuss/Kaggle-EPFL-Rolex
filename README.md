@@ -1,4 +1,4 @@
-🥐# Kaggle_EPFL_Rolex
+# Kaggle_EPFL_Rolex
 Hail and welcome, we are team Rolex (Johann Gremaud and Anna Perrottet).
 
 We have been working on building a classification model that can identify the difficulty(A1-C2) of any french text. 
@@ -42,9 +42,11 @@ $\text{\color{green}{Task J: make a quick assessment of the model?}}$
 #### Further Analysis
 how do the model behave?
 
-🥐### Follow this link to experience a very french journey through Large Language Models:
+🥐☕
+##Indulge in some additional treats, specially crafted for you
+### Follow this link to experience a very french journey through Large Language Models:
 explaining the problem, your solution, and your results, and make it exciting
 
-🥐### What's more romantic than learning French on the stairs of Notre-Dame surrounded by pigeons, give a try to your new favourite french learning app:
+### What's more romantic than learning French on the stairs of Notre-Dame surrounded by pigeons, give a try to your new favourite french learning app:
 add streamlit
 
