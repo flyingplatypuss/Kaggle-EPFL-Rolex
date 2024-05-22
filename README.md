@@ -24,10 +24,12 @@ this can be explained by several factors:
 
 #### Confusion Matrix
 
-![WhatsApp Image 2024-05-21 à 21 41 23_3f497c78](https://github.com/flyingplatypuss/Kaggle-EPFL-Rolex/assets/146196573/0261567a-3c97-43e5-b169-d3e865d11d8c=250x250)
+<img src="https://github.com/flyingplatypuss/Kaggle-EPFL-Rolex/assets/146196573/0261567a-3c97-43e5-b169-d3e865d11d8c" alt="WhatsApp Image 2024-05-21 à 21 41 23_3f497c78" width="300" height="auto"/>
 
 #### Limitations and flaws
-where do the errors come from?
+The errors from the model come from:
+- the limited size of the training dataset (n = 1200?)
+- the data 
 $\text{\color{green}{Task J: make a quick assessment of the model?}}$
 #### Further Analysis
 how do the model behave?
