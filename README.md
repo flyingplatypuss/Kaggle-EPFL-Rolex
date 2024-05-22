@@ -23,7 +23,9 @@ this can be explained by several factors:
 ### LLM with camemBERT 
 
 #### Confusion Matrix
-$\text{\color{green}{Task J: extract the confusion Matrix}}$
+
+![WhatsApp Image 2024-05-21 à 21 41 23_3f497c78](https://github.com/flyingplatypuss/Kaggle-EPFL-Rolex/assets/146196573/0261567a-3c97-43e5-b169-d3e865d11d8c)
+
 #### Limitations and flaws
 where do the errors come from?
 $\text{\color{green}{Task J: make a quick assessment of the model?}}$
