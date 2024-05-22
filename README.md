@@ -24,7 +24,7 @@ this can be explained by several factors:
 
 #### Confusion Matrix
 
-<img src="https://github.com/flyingplatypuss/Kaggle-EPFL-Rolex/assets/146196573/0261567a-3c97-43e5-b169-d3e865d11d8c" alt="WhatsApp Image 2024-05-21 à 21 41 23_3f497c78" width="300" height="auto"/>
+<img src="https://github.com/flyingplatypuss/Kaggle-EPFL-Rolex/assets/146196573/0261567a-3c97-43e5-b169-d3e865d11d8c" alt="WhatsApp Image 2024-05-21 à 21 41 23_3f497c78" width="500" height="auto"/>
 
 #### Limitations and flaws
 The errors from the model come from:
