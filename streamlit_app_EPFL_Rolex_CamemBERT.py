@@ -1,3 +1,5 @@
+# This file is a sketch of what the application could have been with the CamemBERT model. Unfortunately, Stramlit does not accept the model due to insufficient space.
+
 import streamlit as st
 import requests
 from io import BytesIO
@@ -6,7 +8,7 @@ from torch import nn
 from transformers import AutoTokenizer, CamembertForSequenceClassification
 import spacy
 
-# Charge le modèle de langue française
+# Load french model
 nlp = spacy.load("fr_core_news_md")
 
 class CustomCamembertForSequenceClassification(nn.Module):
