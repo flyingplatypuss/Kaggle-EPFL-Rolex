@@ -42,12 +42,12 @@ $\text{\color{green}{Task J: make a quick assessment of the model?}}$
 #### Further Analysis
 how do the model behave?
 
-🥐☕
+
 
 ##Indulge in some additional treats, specially crafted for you
-### Follow this link to experience a very french journey through Large Language Models:
+### 🥐 Follow this link to experience a very french journey through Large Language Models:
 explaining the problem, your solution, and your results, and make it exciting
 
-### Pigeons will come for you if you leave crumbs but those from Paris may give you more, try your new favourite french learning app:
+### ☕ Pigeons will come for you if you leave crumbs but those from Paris may give you more, try your new favourite french learning app:
 add streamlit
 
