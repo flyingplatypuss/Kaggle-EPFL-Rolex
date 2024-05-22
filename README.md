@@ -27,6 +27,7 @@ $\text{\Large{\color{blue}{Confusion Matrix}}}$
 
 <img src="https://github.com/flyingplatypuss/Kaggle-EPFL-Rolex/assets/146196573/0261567a-3c97-43e5-b169-d3e865d11d8c" alt="WhatsApp Image 2024-05-21 à 21 41 23_3f497c78" width="500" height="auto"/>
 
+
 $\text{\Large{\color{blue}{Limitations and flaws}}}$
 
 The errors from the model come from:
@@ -35,9 +36,10 @@ The errors from the model come from:
 - the neural network operates according to its own logic, which is not always aligned with human neural network
 
 $\text{\color{green}{Task J: make a quick assessment of the model?}}$
+
 #### Further Analysis
 how do the model behave?
 ### Link to the Video
 explaining the problem, your solution, and your results, and make it exciting
 
-$\color{#D29922}\textsf{\Large\&#x26A0;\kern{0.2cm}\normalsize Warning}$
+
