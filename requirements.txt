@@ -4,3 +4,4 @@ transformers
 nltk
 requests
 spacy
+scikit-learn
