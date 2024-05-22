@@ -44,7 +44,7 @@ how do the model behave?
 
 
 
-##Indulge in some additional treats, specially crafted for you
+
 ### 🥐 Follow this link to experience a very french journey through Large Language Models:
 explaining the problem, your solution, and your results, and make it exciting
 
