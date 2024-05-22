@@ -11,14 +11,13 @@ We have used 5 different models:
 - Random Forest
 - Large Language Model (LLM) with camemBERT
 
-$\text{\color{green}{Task J: get the scores for bert model}}$
-
 $\text{\color{yellow}{Task A: extract complete table of scores for the 5 methods}}$ 
 
 Our most important metric is accuracy. KNN, Random Forest and Decision Tree have around 40% of accuracy. Logistic regression performs better with 47%. 
 this can be explained by several factors: 
 - the size of the dataset
-- the complexity of the classifier
+- the complexity of the classifier e.g. camembert is able to "understand" the meaning of the sentence
+  
   $\text{\color{yellow}{Task A: find couple more reasons}}$
 ### LLM with camemBERT 
 
@@ -29,7 +28,9 @@ this can be explained by several factors:
 #### Limitations and flaws
 The errors from the model come from:
 - the limited size of the training dataset (n = 1200?)
-- the data 
+- camemBERT is simpler than BERT but also less performant
+- the neural network operates according to its own logic, which is not always aligned with human neural network
+
 $\text{\color{green}{Task J: make a quick assessment of the model?}}$
 #### Further Analysis
 how do the model behave?
