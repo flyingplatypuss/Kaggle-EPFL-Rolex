@@ -11,7 +11,7 @@ We have used 5 different models:
 - Decision Tree
 - Random Forest
 - Large Language Model (LLM) with camemBERT
-- 
+
 $\text{\Large{\color{#EB5406}{Performances}}}$
 
 <img src = "https://github.com/flyingplatypuss/Kaggle-EPFL-Rolex/assets/146196573/ef66f7f3-9ab0-4df9-babe-fbc918cd69a2" width = "500" height="auto"/>
