@@ -27,6 +27,7 @@ $\text{\Large{\color{blue}{Confusion Matrix}}}$
 
 <img src="https://github.com/flyingplatypuss/Kaggle-EPFL-Rolex/assets/146196573/0261567a-3c97-43e5-b169-d3e865d11d8c" alt="WhatsApp Image 2024-05-21 à 21 41 23_3f497c78" width="500" height="auto"/>
 
+By retraining the CamemBERT model on the full training dataset we achieve an accuracy of 0.587. By running it many times and by taking the most represented difficulty level for each sentence, we achieved an accuracy of 0.62, placing ourselves in the 3rd position of the Kaggle competition.
 
 $\text{\Large{\color{blue}{Limitations and flaws}}}$
 
