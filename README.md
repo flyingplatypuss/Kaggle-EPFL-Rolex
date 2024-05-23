@@ -44,6 +44,8 @@ The errors from the model come from:
 ### ☕ Pigeons will come for you if you leave crumbs, but those from Paris may give you more, try your new favourite french learning app:
 [Do it yourself](https://pigeons-and-crumbs.streamlit.app/)
 
+[Github](https://pigeons-and-crumbs.streamlit.app/)
+
 Split of the work: 
 - Anna: Logistic Regression, K Nearest Neighbours, Decision Tree, Random Forest, YouTube Video.
 - Johann: CamemBERT model, stramlit application.
