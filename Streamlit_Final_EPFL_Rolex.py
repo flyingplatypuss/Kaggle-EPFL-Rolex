@@ -104,7 +104,7 @@ def remove_punctuation(text):
 
 # Fonction principale de l'application
 def main():
-    st.image('https://raw.githubusercontent.com/JohannG3/DSML_EPFL_Rolex/main/logo_pigeon_streamlit.webp', width=400)
+    st.image('https://raw.githubusercontent.com/flyingplatypuss/Kaggle-EPFL-Rolex/main/pigeon_streamlit.webp', width=400)
     st.title('Improve your level of French with pigeon.com')
 
     
