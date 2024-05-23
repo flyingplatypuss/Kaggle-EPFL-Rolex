@@ -84,7 +84,7 @@ def get_synonyms(word):
     synonyms_url = f"https://wordsapiv1.p.rapidapi.com/words/{word}/synonyms"
     headers = {
         'x-rapidapi-host': "wordsapiv1.p.rapidapi.com",
-        'x-rapidapi-key': "eb2eae6e0emshf61aba8617a5c14p18fca5jsn4bc73b95ed52"
+        'x-rapidapi-key': "864ad2ff57mshd1f224c4268230bp11ee28jsn58d9f3f8ad52"
     }
     response = requests.get(synonyms_url, headers=headers)
     if response.status_code == 200 and 'synonyms' in response.json():
