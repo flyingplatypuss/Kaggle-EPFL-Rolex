@@ -104,8 +104,11 @@ def remove_punctuation(text):
 
 # Fonction principale de l'application
 def main():
-    st.image('https://raw.githubusercontent.com/JohannG3/DSML_EPFL_Rolex/main/pigeon_streamlit.png', width=200)
+    st.image('https://github.com/flyingplatypuss/Kaggle-EPFL-Rolex/blob/main/pigeon_streamlit.png', width=400)
     st.title('Improve your level of French with pigeon.com')
+
+    
+    
 
     if 'initiated' not in st.session_state:
         st.session_state.initiated = False
