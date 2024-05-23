@@ -38,7 +38,7 @@ The errors from the model come from:
 
 
 ### 🥐 Follow this link to experience a very french journey through Large Language Models:
-explaining the problem, your solution, and your results, and make it exciting
+[Link Text](https://youtu.be/xTXCNCszG50)
 
 ### ☕ Pigeons will come for you if you leave crumbs, but those from Paris may give you more, try your new favourite french learning app:
 add streamlit
