@@ -23,7 +23,7 @@ st.markdown("""
     }
     body {
         color: #fff;
-        background-color: #000;
+        background-color: #FFFFFF;
     }
     .reportview-container {
         flex-direction: column;
